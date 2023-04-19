@@ -29,7 +29,7 @@
 ### Создание модели и детальной страницы продавцов и товаров<a name="subparagraph4"></a>
 ![image](https://user-images.githubusercontent.com/116742525/233162926-4b068b4a-0473-4ca9-99c6-3d574f23617b.png)
 
-![image](https://user-images.githubusercontent.com/116742525/233164100-bad26a0a-4836-430f-8f56-df5d59ad9d87.png | width=100)
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/116742525/233164100-bad26a0a-4836-430f-8f56-df5d59ad9d87.png)" width="100" height="100">
 
 ![image](https://user-images.githubusercontent.com/116742525/233164163-05cc7da1-2339-44a9-9617-63cb9b3eb869.png)
 
